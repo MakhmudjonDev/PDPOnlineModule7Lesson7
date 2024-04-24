@@ -9,45 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7cb061-6587-4499-bf17-13cb035e9f35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/entities/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/entities/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/service/GroupService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/servlets/HomeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/servlets/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/servlets/SecurityFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/servlets/group/GroupAddServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/servlets/group/GroupDeleteServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/servlets/group/GroupUpdateServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/servlets/student/StudentAddServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/servlets/student/StudentDeleteServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/online/bootcamp/jpql_with_lesson5/servlets/student/StudentUpdateServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fragments/css.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fragments/js.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fragments/navbar.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/group/create.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/group/delete.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/group/update.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/student/create.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/student/delete.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/student/update.jsp" afterDir="false" />
+    <list default="true" id="6a7cb061-6587-4499-bf17-13cb035e9f35" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,11 +187,24 @@
       <option name="presentableId" value="Default" />
       <updated>1713874437182</updated>
       <workItem from="1713874438185" duration="3504000" />
-      <workItem from="1713877956005" duration="1788000" />
+      <workItem from="1713877956005" duration="2519000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1713879862782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713879862782</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
